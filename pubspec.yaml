@@ -1,8 +1,8 @@
 name: weather_icons_flutter
 description: Weather icons wrapper
-version: 1.0.0
+version: 1.0.1
 author: Dan Balarin <dan.balarin@gmail.com>
-homepage: https://github.com/Kenny11CZ/font_awesome_flutter
+homepage: https://github.com/Kenny11CZ/weather_icons_flutter
 
 
 dependencies:
