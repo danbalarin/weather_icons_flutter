@@ -2,7 +2,7 @@
 
 Weather icons wrapper for [Flutter.io](https://flutter.io/)
 
-## How to
+## Dependency
 
 In the `dependencies:` section of your `pubspec.yaml`, add the following line:
 
@@ -19,7 +19,7 @@ class MyWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return new IconButton(
       // Use the WeatherIcons class for the IconData
-      icon: new Icon(FontAwesomeIcons.stars),
+      icon: new Icon(WeatherIcons.stars),
       onPressed: () { print("Pressed"); }
      );
   }
