@@ -1,6 +1,6 @@
 # weather_icons_flutter
 
-Weather icons wrapper for [Flutter.io](https://flutter.io/)
+[Weather icons](https://github.com/erikflowers/weather-icons) wrapper for [Flutter.io](https://flutter.io/)
 
 ## Dependency
 
